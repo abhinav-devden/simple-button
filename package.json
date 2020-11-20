@@ -1,6 +1,6 @@
 {
   "name": "simple-basic-react-button",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -13,5 +13,10 @@
     "prop-types": "^15.7.2",
     "react": "17.0.1",
     "react-dom": "17.0.1"
-  }
+  },
+  "description": "Simple Basic React Button",
+  "main": "index.js",
+  "repository": "https://github.com/abhinav-devden/simple-button.git",
+  "author": "Abhinav Ashok <abhinavashok@devdensolutions.com>",
+  "license": "MIT"
 }
