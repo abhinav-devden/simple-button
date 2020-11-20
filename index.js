@@ -1,5 +1,5 @@
 import Button from './pages';
 
 export {
-  Button
+  Button as SimpleButton
 };
