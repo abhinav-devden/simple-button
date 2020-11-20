@@ -1,14 +1,16 @@
 {
-  "name": "simple-modal",
+  "name": "simple-basic-react-button",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
+    "classnames": "^2.2.6",
     "next": "10.0.2",
+    "prpo-types": "^0.0.1-security",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   }

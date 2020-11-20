@@ -853,7 +853,7 @@ class-utils@^0.3.5:
     isobject "^3.0.0"
     static-extend "^0.1.1"
 
-classnames@2.2.6:
+classnames@2.2.6, classnames@^2.2.6:
   version "2.2.6"
   resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.2.6.tgz#43935bffdd291f326dad0a205309b38d00f650ce"
   integrity sha512-JR/iSQOSt+LQIWwrwEzJ9uk0xfN3mTVYMwt1Ir5mUcSN6pU+V4zQFFaJsclJbPuAUQH+yfWef6tm7l1quW3C8Q==
@@ -2893,6 +2893,11 @@ prop-types@15.7.2:
     loose-envify "^1.4.0"
     object-assign "^4.1.1"
     react-is "^16.8.1"
+
+prpo-types@^0.0.1-security:
+  version "0.0.1-security"
+  resolved "https://registry.yarnpkg.com/prpo-types/-/prpo-types-0.0.1-security.tgz#4ce4e9bac1ea797c7a55282c581d6445d91d1638"
+  integrity sha512-uW70yPcBP0pfQ3BbFH4CFOeXk6LeksK4CraP9rvm/bCicv8S6v6eGHszS+YQx+jhqccByXCwEZDEezF/XaBPHg==
 
 prr@~1.0.1:
   version "1.0.1"
